@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: 43a9b209bdb697748961388334d5856f
+timeCreated: 1518883134
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Chest1
+    100002: Chest2
+    100004: HairBack1
+    100006: Head
+    100008: jiggle_hair1
+    100010: jiggle_hair1_end
+    100012: jiggle_hair2
+    100014: jiggle_hair3
+    100016: jiggle_hair3_end
+    100018: jiggle_hair4
+    100020: jiggle_hair5
+    100022: jiggle_hair5_end
+    100024: jiggle_tail1
+    100026: jiggle_tail1_end
+    100028: LeftBall
+    100030: LeftBall_end
+    100032: LeftEar
+    100034: LeftEar_end
+    100036: LeftFoot
+    100038: LeftFoot_end
+    100040: LeftForearm
+    100042: LeftHand
+    100044: LeftLeg1
+    100046: LeftLeg2
+    100048: LeftShoulder
+    100050: LeftThigh
+    100052: LeftWingClosed
+    100054: LeftWingClosed1
+    100056: LeftWingClosed2
+    100058: LeftWingClosed2_end
+    100060: LeftWingOpen
+    100062: LeftWingOpen1
+    100064: LeftWingOpen2
+    100066: LeftWingOpen2_end
+    100068: //RootNode
+    100070: Neck
+    100072: Pelvis
+    100074: RightBall
+    100076: RightBall_end
+    100078: RightEar
+    100080: RightEar_end
+    100082: RightFoot
+    100084: RightFoot_end
+    100086: RightForearm
+    100088: RightHand
+    100090: RightLeg1
+    100092: RightLeg2
+    100094: RightShoulder
+    100096: RightThigh
+    100098: RightWingClosed
+    100100: RightWingClosed1
+    100102: RightWingClosed2
+    100104: RightWingClosed2_end
+    100106: RightWingOpen
+    100108: RightWingOpen1
+    100110: RightWingOpen2
+    100112: RightWingOpen2_end
+    100114: Tail1
+    100116: Tail2
+    100118: Tail3
+    100120: vn_luna_s1.qc_skeleton
+    100122: vn_luna_s1_left_wing_large_closed
+    100124: vn_luna_s1_left_wing_large_spread
+    100126: vn_luna_s1_luna_collar
+    100128: vn_luna_s1_luna_crown
+    100130: vn_luna_s1_luna_horn
+    100132: vn_luna_s1_luna_shoes
+    100134: vn_luna_s1_mane_luna_s1
+    100136: vn_luna_s1_reference
+    100138: vn_luna_s1_right_wing_large_closed
+    100140: vn_luna_s1_right_wing_large_spread
+    100142: vn_luna_s1_tail_luna_s1
+    400000: Chest1
+    400002: Chest2
+    400004: HairBack1
+    400006: Head
+    400008: jiggle_hair1
+    400010: jiggle_hair1_end
+    400012: jiggle_hair2
+    400014: jiggle_hair3
+    400016: jiggle_hair3_end
+    400018: jiggle_hair4
+    400020: jiggle_hair5
+    400022: jiggle_hair5_end
+    400024: jiggle_tail1
+    400026: jiggle_tail1_end
+    400028: LeftBall
+    400030: LeftBall_end
+    400032: LeftEar
+    400034: LeftEar_end
+    400036: LeftFoot
+    400038: LeftFoot_end
+    400040: LeftForearm
+    400042: LeftHand
+    400044: LeftLeg1
+    400046: LeftLeg2
+    400048: LeftShoulder
+    400050: LeftThigh
+    400052: LeftWingClosed
+    400054: LeftWingClosed1
+    400056: LeftWingClosed2
+    400058: LeftWingClosed2_end
+    400060: LeftWingOpen
+    400062: LeftWingOpen1
+    400064: LeftWingOpen2
+    400066: LeftWingOpen2_end
+    400068: //RootNode
+    400070: Neck
+    400072: Pelvis
+    400074: RightBall
+    400076: RightBall_end
+    400078: RightEar
+    400080: RightEar_end
+    400082: RightFoot
+    400084: RightFoot_end
+    400086: RightForearm
+    400088: RightHand
+    400090: RightLeg1
+    400092: RightLeg2
+    400094: RightShoulder
+    400096: RightThigh
+    400098: RightWingClosed
+    400100: RightWingClosed1
+    400102: RightWingClosed2
+    400104: RightWingClosed2_end
+    400106: RightWingOpen
+    400108: RightWingOpen1
+    400110: RightWingOpen2
+    400112: RightWingOpen2_end
+    400114: Tail1
+    400116: Tail2
+    400118: Tail3
+    400120: vn_luna_s1.qc_skeleton
+    400122: vn_luna_s1_left_wing_large_closed
+    400124: vn_luna_s1_left_wing_large_spread
+    400126: vn_luna_s1_luna_collar
+    400128: vn_luna_s1_luna_crown
+    400130: vn_luna_s1_luna_horn
+    400132: vn_luna_s1_luna_shoes
+    400134: vn_luna_s1_mane_luna_s1
+    400136: vn_luna_s1_reference
+    400138: vn_luna_s1_right_wing_large_closed
+    400140: vn_luna_s1_right_wing_large_spread
+    400142: vn_luna_s1_tail_luna_s1
+    2100000: tail
+    2100002: hair
+    2100004: shoes
+    2100006: crown
+    2100008: collar
+    2100010: wings
+    2100012: horn
+    2100014: eyelashes
+    2100016: eyeball_l
+    2100018: eyeball_r
+    2100020: teeth
+    2100022: BODY
+    2100024: tongue
+    4300000: vn_luna_s1_tail_luna_s1
+    4300002: vn_luna_s1_mane_luna_s1
+    4300004: vn_luna_s1_luna_shoes
+    4300006: vn_luna_s1_luna_crown
+    4300008: vn_luna_s1_luna_collar
+    4300010: vn_luna_s1_right_wing_large_spread
+    4300012: vn_luna_s1_right_wing_large_closed
+    4300014: vn_luna_s1_left_wing_large_spread
+    4300016: vn_luna_s1_left_wing_large_closed
+    4300018: vn_luna_s1_luna_horn
+    4300020: vn_luna_s1_reference
+    7400000: vn_luna_s1.qc_skeleton|ragdoll
+    9500000: //RootNode
+    13700000: vn_luna_s1_left_wing_large_closed
+    13700002: vn_luna_s1_left_wing_large_spread
+    13700004: vn_luna_s1_luna_collar
+    13700006: vn_luna_s1_luna_crown
+    13700008: vn_luna_s1_luna_horn
+    13700010: vn_luna_s1_luna_shoes
+    13700012: vn_luna_s1_mane_luna_s1
+    13700014: vn_luna_s1_reference
+    13700016: vn_luna_s1_right_wing_large_closed
+    13700018: vn_luna_s1_right_wing_large_spread
+    13700020: vn_luna_s1_tail_luna_s1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BODY
+    second: {fileID: 2100000, guid: 4f069db7e1975b342a491cf1403ae17d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: collar
+    second: {fileID: 2100000, guid: 89838446629e56c4ebb33fb0d52e242c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: crown
+    second: {fileID: 2100000, guid: 02d8ed363df644f4396a915456467422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeball_l
+    second: {fileID: 2100000, guid: 49718a6498ac5514b871a417023518cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyeball_r
+    second: {fileID: 2100000, guid: 18fa68e7e6a25da4bb3ee4d9cfd1c370, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eyelashes
+    second: {fileID: 2100000, guid: 1abbb42724002824a9692d95c39d1c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair
+    second: {fileID: 2100000, guid: 23fe315401159f24181e86350b586122, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: horn
+    second: {fileID: 2100000, guid: 5a7320e02325384428743a9e64c9a566, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shoes
+    second: {fileID: 2100000, guid: 0f1dbe75b1b30874dba293ccbf5b1dfb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tail
+    second: {fileID: 2100000, guid: 81a19de1e577ae045bccde0d592e167d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: teeth
+    second: {fileID: 2100000, guid: 19cd8ba76d319464290253d14a9efad2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tongue
+    second: {fileID: 2100000, guid: 9737b3c2bf9496c43b8c687b936d7858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wings
+    second: {fileID: 2100000, guid: 4c87f2d8839cf2c4c9cc815ee9e421e1, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
